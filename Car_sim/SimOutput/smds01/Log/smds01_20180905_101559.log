@@ -1,0 +1,12 @@
+FIRST_INIT	(internal default used)	2018-09-05 10:16:00
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:16:00
+SIM_START	Examples/BasicFunctions/Road/ArtificialRoads/SegmentBasedClosedTrack	2018-09-05 10:16:00
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Road/ArtificialRoads/SegmentBasedClosedTrack
+
+TIME	4.929
+SIM_END		Examples/BasicFunctions/Road/ArtificialRoads/SegmentBasedClosedTrack	4.925s	13.3138m
+SHUTDOWN	CarMaker quick shutdown initiated
+

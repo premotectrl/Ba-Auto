@@ -1,0 +1,42 @@
+SIM_START	Examples/BasicFunctions/Road/ArtificialRoads/SegmentBasedClosedTrack	2018-09-05 10:55:35
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Road/ArtificialRoads/SegmentBasedClosedTrack
+
+TIME	3.649
+SIM_END		Examples/BasicFunctions/Road/ArtificialRoads/SegmentBasedClosedTrack	3.645s	5.03986m
+SIM_START	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	2018-09-05 10:56:03
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP
+
+TIME	11.865
+SIM_END		Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	11.864s	396.061m
+SIM_START	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	2018-09-05 10:56:44
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP
+
+TIME	11.865
+SIM_END		Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	11.864s	396.061m
+SIM_START	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	2018-09-05 10:57:15
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP
+
+TIME	11.865
+SIM_END		Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	11.864s	396.061m
+SIM_START	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	2018-09-05 10:57:48
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP
+
+TIME	11.865
+SIM_END		Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	11.864s	396.061m
+SIM_START	Examples/BasicFunctions/Driver/Overtaking	2018-09-05 10:59:57
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/Overtaking
+
+TIME	5.175
+SIM_END		Examples/BasicFunctions/Driver/Overtaking	5.171s	95.0528m
+SIM_START	Examples/BasicFunctions/Driver/Overtaking	2018-09-05 11:00:14
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Driver/Overtaking
+
+TIME	96.730
+SIM_END		Examples/BasicFunctions/Driver/Overtaking	96.726s	2164.28m

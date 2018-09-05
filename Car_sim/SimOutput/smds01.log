@@ -1,0 +1,57 @@
+
+
+SYSTEM_START	-	smds01	smds01	2018-09-05 10:15:59
+
+
+SYSTEM_INFO	CarMaker 6.0 - Car_Generic #731	fh@dagobert.ipg 2017-04-19 16:42:35	(6.0 fh@dagobert.ipg 2017-04-19 16:42:32)
+SIM	1536135360	smds01			0	0	0
+SIM	1536135360	smds01	smdsadmin	Examples/BasicFunctions/Road/ArtificialRoads/SegmentBasedClosedTrack	0	4.925	13.3138
+
+
+SYSTEM_START	-	smds01	smds01	2018-09-05 10:55:35
+
+
+SYSTEM_INFO	CarMaker 6.0 - Car_Generic #647	fh@dagobert.ipg 2017-04-19 16:43:00	(6.0 fh@dagobert.ipg 2017-04-19 16:42:49)
+SIM	1536137735	smds01	smdsadmin	Examples/BasicFunctions/Road/ArtificialRoads/SegmentBasedClosedTrack	0	3.645	5.03986
+
+
+SYSTEM_START	-	smds01	smds01	2018-09-05 10:56:02
+
+
+SYSTEM_INFO	CarMaker 6.0 - Car_Generic #647	fh@dagobert.ipg 2017-04-19 16:43:00	(6.0 fh@dagobert.ipg 2017-04-19 16:42:49)
+SIM	1536137763	smds01	smdsadmin	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	0	11.864	396.061
+
+
+SYSTEM_START	-	smds01	smds01	2018-09-05 10:56:43
+
+
+SYSTEM_INFO	CarMaker 6.0 - Car_Generic #647	fh@dagobert.ipg 2017-04-19 16:43:00	(6.0 fh@dagobert.ipg 2017-04-19 16:42:49)
+SIM	1536137804	smds01	smdsadmin	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	0	11.864	396.061
+
+
+SYSTEM_START	-	smds01	smds01	2018-09-05 10:57:15
+
+
+SYSTEM_INFO	CarMaker 6.0 - Car_Generic #647	fh@dagobert.ipg 2017-04-19 16:43:00	(6.0 fh@dagobert.ipg 2017-04-19 16:42:49)
+SIM	1536137835	smds01	smdsadmin	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	0	11.864	396.061
+
+
+SYSTEM_START	-	smds01	smds01	2018-09-05 10:57:47
+
+
+SYSTEM_INFO	CarMaker 6.0 - Car_Generic #647	fh@dagobert.ipg 2017-04-19 16:43:00	(6.0 fh@dagobert.ipg 2017-04-19 16:42:49)
+SIM	1536137868	smds01	smdsadmin	Examples/BasicFunctions/Simulink/LaneChange_ISO_ESP	0	11.864	396.061
+
+
+SYSTEM_START	-	smds01	smds01	2018-09-05 10:59:57
+
+
+SYSTEM_INFO	CarMaker 6.0 - Car_Generic #647	fh@dagobert.ipg 2017-04-19 16:43:00	(6.0 fh@dagobert.ipg 2017-04-19 16:42:49)
+SIM	1536137997	smds01	smdsadmin	Examples/BasicFunctions/Driver/Overtaking	0	5.171	95.0528
+
+
+SYSTEM_START	-	smds01	smds01	2018-09-05 11:00:13
+
+
+SYSTEM_INFO	CarMaker 6.0 - Car_Generic #647	fh@dagobert.ipg 2017-04-19 16:43:00	(6.0 fh@dagobert.ipg 2017-04-19 16:42:49)
+SIM	1536138014	smds01	smdsadmin	Examples/BasicFunctions/Driver/Overtaking	0	96.726	2164.28
